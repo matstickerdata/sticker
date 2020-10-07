@@ -486,6 +486,33 @@
     ]
   },
   {
+    "title": "miyuki's word",
+    "slug": "miyuki-s-word",
+    "active": false,
+    "tray_src": "https://s1.stickers.cloud/packs/361d8272-c6ba-4b89-ab01-bc91a2350b44/webp/tray_361d8272-c6ba-4b89-ab01-bc91a2350b44.webp",
+    "tray_src_icon": "https://s1.stickers.cloud/packs/361d8272-c6ba-4b89-ab01-bc91a2350b44/webp/7c5c3e8a-5699-46ce-b8ec-746c999c068d.webp",
+    "stickers": [
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/361d8272-c6ba-4b89-ab01-bc91a2350b44/webp/tray_361d8272-c6ba-4b89-ab01-bc91a2350b44.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/361d8272-c6ba-4b89-ab01-bc91a2350b44/webp/7c5c3e8a-5699-46ce-b8ec-746c999c068d.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/361d8272-c6ba-4b89-ab01-bc91a2350b44/webp/f78fffa8-f7ca-4df3-ac51-cab0592d12ca.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/361d8272-c6ba-4b89-ab01-bc91a2350b44/webp/b4531924-4a7d-4ff2-bf71-3b9944eb3ebc.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/361d8272-c6ba-4b89-ab01-bc91a2350b44/webp/3f819c96-e554-4a81-93ad-c6c686336166.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/361d8272-c6ba-4b89-ab01-bc91a2350b44/webp/1a07dd5b-c139-4894-b0db-d02d2f7b9bb0.webp"
+      }
+    ]
+  },
+  {
     "title": "Ggmuii",
     "slug": "ggmuii",
     "active": false,

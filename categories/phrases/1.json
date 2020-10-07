@@ -486,6 +486,33 @@
     ]
   },
   {
+    "title": "Holymoly",
+    "slug": "holymoly",
+    "active": false,
+    "tray_src": "https://s1.stickers.cloud/packs/cfb98295-204f-4f1f-a365-624f026e93ec/webp/tray_cfb98295-204f-4f1f-a365-624f026e93ec.webp",
+    "tray_src_icon": "https://s1.stickers.cloud/packs/cfb98295-204f-4f1f-a365-624f026e93ec/webp/c402bbe9-11fb-4d40-acad-2634871eed73.webp",
+    "stickers": [
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/cfb98295-204f-4f1f-a365-624f026e93ec/webp/tray_cfb98295-204f-4f1f-a365-624f026e93ec.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/cfb98295-204f-4f1f-a365-624f026e93ec/webp/c402bbe9-11fb-4d40-acad-2634871eed73.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/cfb98295-204f-4f1f-a365-624f026e93ec/webp/a346f82e-d483-4225-b366-eb5d4bb43ca6.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/cfb98295-204f-4f1f-a365-624f026e93ec/webp/e4b7be3f-d40d-4bc9-a89e-c82390b89383.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/cfb98295-204f-4f1f-a365-624f026e93ec/webp/d29da42d-7e9e-4ab6-9895-7e6d5a5191bd.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/cfb98295-204f-4f1f-a365-624f026e93ec/webp/fbb2cac4-69e4-4428-bdd3-28aa2e7ccd34.webp"
+      }
+    ]
+  },
+  {
     "title": "UHNhhh1",
     "slug": "uhnhhh1",
     "active": false,
