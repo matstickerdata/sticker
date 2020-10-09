@@ -3,26 +3,26 @@
     "title": "Among Us",
     "slug": "among-us",
     "active": false,
-    "tray_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/tray96.webp",
-    "tray_src_icon": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/-33065923.webp",
+    "tray_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/96x96.webp",
+    "tray_src_icon": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/0.webp",
     "stickers": [
       {
-        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/tray96.webp"
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/96x96.webp"
       },
       {
-        "sticker_src": "https://s2.stickers.cloud/packs/a1db8bdf-3472-41c5-95c1-064c4184535d/webp/0.webp"
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/0.webp"
       },
       {
-        "sticker_src": "https://s2.stickers.cloud/packs/a1db8bdf-3472-41c5-95c1-064c4184535d/webp/1.webp"
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/1.webp"
       },
       {
-        "sticker_src": "https://s2.stickers.cloud/packs/a1db8bdf-3472-41c5-95c1-064c4184535d/webp/2.webp"
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/2.webp"
       },
       {
-        "sticker_src": "https://s2.stickers.cloud/packs/a1db8bdf-3472-41c5-95c1-064c4184535d/webp/3.webp"
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/3.webp"
       },
       {
-        "sticker_src": "https://s2.stickers.cloud/packs/a1db8bdf-3472-41c5-95c1-064c4184535d/webp/4.webp"
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/4.webp"
       }
     ]
   },
