@@ -27,6 +27,60 @@
     ]
   },
   {
+    "title": "Senya 1 PeGoFe",
+    "slug": "senya-1-pegofe",
+    "active": false,
+    "tray_src": "https://s1.stickers.cloud/packs/dc7ae5cc-fac3-4e26-bacc-cc24560a5c02/webp/34712ad8-8ca9-4be8-8aca-56936aeaaba9.webp",
+    "tray_src_icon": "https://s1.stickers.cloud/packs/dc7ae5cc-fac3-4e26-bacc-cc24560a5c02/webp/34712ad8-8ca9-4be8-8aca-56936aeaaba9.webp",
+    "stickers": [
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/dc7ae5cc-fac3-4e26-bacc-cc24560a5c02/webp/742f6fb8-b201-4081-8635-43f02bb85242.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/dc7ae5cc-fac3-4e26-bacc-cc24560a5c02/webp/f6acc7c1-9236-457c-9cad-e253397eb40b.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/dc7ae5cc-fac3-4e26-bacc-cc24560a5c02/webp/b705839c-0341-4edd-8aeb-efba9ac775d0.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/dc7ae5cc-fac3-4e26-bacc-cc24560a5c02/webp/e7682aaa-95b8-4a8c-bdc8-b785a6b1ff25.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/dc7ae5cc-fac3-4e26-bacc-cc24560a5c02/webp/1198a935-902f-491a-9230-43513353bbc8.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/dc7ae5cc-fac3-4e26-bacc-cc24560a5c02/webp/b4ea9234-ce3d-433d-a8d4-ad7e4336f939.webp"
+      }
+    ]
+  },
+  {
+    "title": "KitKat Meow",
+    "slug": "kitkat-meow",
+    "active": false,
+    "tray_src": "https://s1.stickers.cloud/packs/4ddfe7c1-191e-4478-8681-fa1bbe1abd94/webp/97650e03-fb4d-4934-8ae2-6f587bc721bd.webp",
+    "tray_src_icon": "https://s1.stickers.cloud/packs/4ddfe7c1-191e-4478-8681-fa1bbe1abd94/webp/97650e03-fb4d-4934-8ae2-6f587bc721bd.webp",
+    "stickers": [
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/4ddfe7c1-191e-4478-8681-fa1bbe1abd94/webp/fa15f055-10b8-4ab5-a3e2-613fcc6b32cb.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/4ddfe7c1-191e-4478-8681-fa1bbe1abd94/webp/4dc47ad8-49ed-4a24-a74d-c81194f3c3d8.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/4ddfe7c1-191e-4478-8681-fa1bbe1abd94/webp/e7e49eab-a15a-43cd-83a3-3e1c2e68caeb.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/4ddfe7c1-191e-4478-8681-fa1bbe1abd94/webp/13fd0406-85aa-4d97-a60e-e411ce89001e.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/4ddfe7c1-191e-4478-8681-fa1bbe1abd94/webp/46e29b13-1ce0-445d-bb5a-84a33e0d446b.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/4ddfe7c1-191e-4478-8681-fa1bbe1abd94/webp/fb3d1f44-d462-4c8a-8eab-e7cb8f1a3705.webp"
+      }
+    ]
+  },
+  {
     "title": "Spoiled Rabbit Love",
     "slug": "spoiled-rabbit-love-1",
     "active": false,
