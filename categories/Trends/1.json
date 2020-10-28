@@ -1,5 +1,32 @@
 [
   {
+    "title": "#1 Among Us",
+    "slug": "among-us-halloween",
+    "active": false,
+    "tray_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t3.webp",
+    "tray_src_icon": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t3.webp",
+    "stickers": [
+      {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t0.webp"
+      },
+      {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t1.webp"
+      },
+      {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t2.webp"
+      },
+      {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t3.webp"
+      },
+      {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t4.webp"
+      },
+      {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t5.webp"
+      }
+    ]
+  },
+  {
     "title": "Halloween Ghost",
     "slug": "halloween-ghost",
     "active": false,
@@ -23,6 +50,33 @@
       },
       {
         "sticker_src": "https://s1.stickers.cloud/packs/524f5eaf-86aa-4fbb-babf-7923a02a825a/webp/05765421-5f04-4bef-bbb3-dfde7c0c56e0.webp"
+      }
+    ]
+  },
+  {
+    "title": "Kaonashi",
+    "slug": "kaonashi",
+    "active": false,
+    "tray_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/19.webp",
+    "tray_src_icon": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/19.webp",
+    "stickers": [
+      {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/19.webp"
+      },
+      {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/20.webp"
+      },
+      {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/21.webp"
+      },
+	  {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/22.webp"
+      },
+	  {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/23.webp"
+      },
+	  {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/24.webp"
       }
     ]
   },
