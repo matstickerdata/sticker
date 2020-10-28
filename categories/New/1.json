@@ -27,6 +27,60 @@
     ]
   },
   {
+    "title": "Ghost Cute",
+    "slug": "ghost_h2t",
+    "active": false,
+    "tray_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/1.webp",
+    "tray_src_icon": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/1.webp",
+    "stickers": [
+      {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/1.webp"
+      },
+      {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/2.webp"
+      },
+      {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/3.webp"
+      },
+	  {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/4.webp"
+      },
+	  {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/5.webp"
+      },
+	  {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/6.webp"
+      }
+    ]
+  },
+  {
+    "title": "Pumpkin 3",
+    "slug": "pumpkin_h2t",
+    "active": false,
+    "tray_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t31.webp",
+    "tray_src_icon": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t31.webp",
+    "stickers": [
+      {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t19.webp"
+      },
+      {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t20.webp"
+      },
+      {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t21.webp"
+      },
+	  {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t22.webp"
+      },
+	  {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t23.webp"
+      },
+	  {
+        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t24.webp"
+      }
+    ]
+  },
+  {
     "title": "Senya 1 PeGoFe",
     "slug": "senya-1-pegofe",
     "active": false,
