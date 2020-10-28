@@ -1,59 +1,5 @@
 [
   {
-    "title": "#1 Among Us",
-    "slug": "among-us-halloween",
-    "active": false,
-    "tray_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t3.webp",
-    "tray_src_icon": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t3.webp",
-    "stickers": [
-      {
-        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t0.webp"
-      },
-      {
-        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t1.webp"
-      },
-      {
-        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t2.webp"
-      },
-      {
-        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t3.webp"
-      },
-      {
-        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t4.webp"
-      },
-      {
-        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/Images/h2t5.webp"
-      }
-    ]
-  },
-  {
-    "title": "Kaonashi",
-    "slug": "kaonashi",
-    "active": false,
-    "tray_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/19.webp",
-    "tray_src_icon": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/19.webp",
-    "stickers": [
-      {
-        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/19.webp"
-      },
-      {
-        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/20.webp"
-      },
-      {
-        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/21.webp"
-      },
-      {
-        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/22.webp"
-      },
-      {
-        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/23.webp"
-      },
-      {
-        "sticker_src": "https://raw.githubusercontent.com/matstickerdata/sticker/master/MyImagesArt/24.webp"
-      }
-    ]
-  },
-  {
     "title": "Halloween Ghost",
     "slug": "halloween-ghost",
     "active": false,
