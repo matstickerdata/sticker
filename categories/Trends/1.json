@@ -27,6 +27,33 @@
     ]
   },
   {
+    "title": "Kaonashi",
+    "slug": "matech_kaonashi",
+    "active": false,
+    "tray_src": "https://matechmobile.org/stickersmaker/matech_kaonashi/61.webp",
+    "tray_src_icon": "https://matechmobile.org/stickersmaker/matech_kaonashi/61.webp",
+    "stickers": [
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_kaonashi/61.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_kaonashi/62.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_kaonashi/63.webp"
+      },
+	  {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_kaonashi/64.webp"
+      },
+	  {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_kaonashi/65.webp"
+      },
+	  {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_kaonashi/66.webp"
+      }
+    ]
+  },
+  {
     "title": "Halloween Ghost",
     "slug": "halloween-ghost",
     "active": false,
