@@ -1,5 +1,32 @@
 [
 	{
+    "title": "LOL AmongUs",
+    "slug": "matech-lol-among-us",
+    "active": false,
+    "tray_src": "https://matechmobile.org/stickersmaker/matech_lol_among_us/79.webp",
+    "tray_src_icon": "https://matechmobile.org/stickersmaker/matech_lol_among_us/79.webp",
+    "stickers": [
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_lol_among_us/80.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_lol_among_us/81.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_lol_among_us/82.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_lol_among_us/83.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_lol_among_us/84.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_lol_among_us/85.webp"
+      }
+    ]
+  },
+	{
     "title": "#1 Among Us Halloween",
     "slug": "matech-among-us-halloween",
     "active": false,
@@ -590,33 +617,6 @@
       },
       {
         "sticker_src": "https://s1.stickers.cloud/packs/98475e41-6422-4292-b416-197711e68fb4/webp/56414ca1-2579-497c-a699-a24576f3cf71.webp"
-      }
-    ]
-  },
-  {
-    "title": "#19 Emojii",
-    "slug": "emojii",
-    "active": false,
-    "tray_src": "https://s1.stickers.cloud/packs/f4b52950-f384-412b-a1cc-08845bcd22e6/webp/tray_f4b52950-f384-412b-a1cc-08845bcd22e6.webp",
-    "tray_src_icon": "https://s1.stickers.cloud/packs/f4b52950-f384-412b-a1cc-08845bcd22e6/webp/c0e223d8-6720-4d1c-9ff9-d15e52acec8d.webp",
-    "stickers": [
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/f4b52950-f384-412b-a1cc-08845bcd22e6/webp/tray_f4b52950-f384-412b-a1cc-08845bcd22e6.webp"
-      },
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/f4b52950-f384-412b-a1cc-08845bcd22e6/webp/c0e223d8-6720-4d1c-9ff9-d15e52acec8d.webp"
-      },
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/f4b52950-f384-412b-a1cc-08845bcd22e6/webp/e26c12a3-b6e4-4ecb-84d6-cb73d24adc22.webp"
-      },
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/f4b52950-f384-412b-a1cc-08845bcd22e6/webp/ae040849-6e3f-47b0-a7b1-dc7db0f4627f.webp"
-      },
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/f4b52950-f384-412b-a1cc-08845bcd22e6/webp/6a43bc73-513e-48c5-9ac3-ca7da957c5a7.webp"
-      },
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/f4b52950-f384-412b-a1cc-08845bcd22e6/webp/86164d86-51b0-4acc-bd2a-9acf5c5e408e.webp"
       }
     ]
   },
