@@ -1,5 +1,32 @@
 [
 	{
+    "title": "AmongUs NOEL",
+    "slug": "matech_amongus_noel",
+    "active": false,
+    "tray_src": "https://matechmobile.org/stickersmaker/matech_amongus_noel/79.webp",
+    "tray_src_icon": "https://matechmobile.org/stickersmaker/matech_amongus_noel/79.webp",
+    "stickers": [
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_noel/79.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_noel/80.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_noel/81.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_noel/82.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_noel/83.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_noel/84.webp"
+      }
+    ]
+  },
+	{
     "title": "LOL AmongUs",
     "slug": "matech-lol-among-us",
     "active": false,
@@ -596,6 +623,33 @@
   },
   {
     "title": "#18 Afe Phrases",
+    "slug": "afe-phrases",
+    "active": false,
+    "tray_src": "https://s1.stickers.cloud/packs/98475e41-6422-4292-b416-197711e68fb4/webp/tray_98475e41-6422-4292-b416-197711e68fb4.webp",
+    "tray_src_icon": "https://s1.stickers.cloud/packs/98475e41-6422-4292-b416-197711e68fb4/webp/19b15f5e-f900-4d35-839c-ef2c0f5cb5ba.webp",
+    "stickers": [
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/98475e41-6422-4292-b416-197711e68fb4/webp/tray_98475e41-6422-4292-b416-197711e68fb4.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/98475e41-6422-4292-b416-197711e68fb4/webp/19b15f5e-f900-4d35-839c-ef2c0f5cb5ba.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/98475e41-6422-4292-b416-197711e68fb4/webp/e32bfd0a-40aa-4800-af38-e7080ee85781.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/98475e41-6422-4292-b416-197711e68fb4/webp/49c8b2eb-cccd-48ab-bedb-f2bcfa31d179.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/98475e41-6422-4292-b416-197711e68fb4/webp/f29640df-70a3-41c8-9a08-45b905127bfe.webp"
+      },
+      {
+        "sticker_src": "https://s1.stickers.cloud/packs/98475e41-6422-4292-b416-197711e68fb4/webp/56414ca1-2579-497c-a699-a24576f3cf71.webp"
+      }
+    ]
+  },
+  {
+    "title": "#19 Afe Phrases",
     "slug": "afe-phrases",
     "active": false,
     "tray_src": "https://s1.stickers.cloud/packs/98475e41-6422-4292-b416-197711e68fb4/webp/tray_98475e41-6422-4292-b416-197711e68fb4.webp",
