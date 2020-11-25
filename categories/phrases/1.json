@@ -134,33 +134,7 @@
       }
     ]
   },
-  {
-    "title": "MOOD 3",
-    "slug": "mood-3",
-    "active": false,
-    "tray_src": "https://s1.stickers.cloud/packs/f5da8380-4a5b-41af-a545-ac3cfc44a263/webp/tray_f5da8380-4a5b-41af-a545-ac3cfc44a263.webp",
-    "tray_src_icon": "https://s1.stickers.cloud/packs/f5da8380-4a5b-41af-a545-ac3cfc44a263/webp/e7e23d7c-43be-4328-bf33-77b3c3785995.webp",
-    "stickers": [
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/f5da8380-4a5b-41af-a545-ac3cfc44a263/webp/tray_f5da8380-4a5b-41af-a545-ac3cfc44a263.webp"
-      },
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/f5da8380-4a5b-41af-a545-ac3cfc44a263/webp/e7e23d7c-43be-4328-bf33-77b3c3785995.webp"
-      },
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/f5da8380-4a5b-41af-a545-ac3cfc44a263/webp/d9b4497c-9530-4b3a-8247-a7695502b890.webp"
-      },
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/f5da8380-4a5b-41af-a545-ac3cfc44a263/webp/6cf23e8c-64b7-42a7-be70-fbe17a3590ff.webp"
-      },
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/f5da8380-4a5b-41af-a545-ac3cfc44a263/webp/c5c2605d-debf-4f6a-b0c6-4db57f601b5f.webp"
-      },
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/f5da8380-4a5b-41af-a545-ac3cfc44a263/webp/a0da0458-3cce-42c1-861f-84ea823778d2.webp"
-      }
-    ]
-  },
+  
   {
     "title": "Good_wishes",
     "slug": "good-wishes",
@@ -404,33 +378,7 @@
       }
     ]
   },
-  {
-    "title": "Random 6.0",
-    "slug": "random-6-0",
-    "active": false,
-    "tray_src": "https://s1.stickers.cloud/packs/6bac70f0-b490-460f-8c0b-820548561f48/webp/tray_6bac70f0-b490-460f-8c0b-820548561f48.webp",
-    "tray_src_icon": "https://s1.stickers.cloud/packs/6bac70f0-b490-460f-8c0b-820548561f48/webp/86b721ce-5810-49ce-9a89-2f728aaa47f3.webp",
-    "stickers": [
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/6bac70f0-b490-460f-8c0b-820548561f48/webp/tray_6bac70f0-b490-460f-8c0b-820548561f48.webp"
-      },
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/6bac70f0-b490-460f-8c0b-820548561f48/webp/86b721ce-5810-49ce-9a89-2f728aaa47f3.webp"
-      },
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/6bac70f0-b490-460f-8c0b-820548561f48/webp/4c770c88-b77a-4110-9570-7bb29c3b72a7.webp"
-      },
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/6bac70f0-b490-460f-8c0b-820548561f48/webp/2493c53e-f808-46c7-bb8e-d0b2c19af451.webp"
-      },
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/6bac70f0-b490-460f-8c0b-820548561f48/webp/d349cd5c-6ce3-4527-9716-3c6785e6783b.webp"
-      },
-      {
-        "sticker_src": "https://s1.stickers.cloud/packs/6bac70f0-b490-460f-8c0b-820548561f48/webp/be0cdc48-be88-4269-86ca-c97b44b0ce7c.webp"
-      }
-    ]
-  },
+  
   {
     "title": "仆街粗口1",
     "slug": "仆街粗口1",
