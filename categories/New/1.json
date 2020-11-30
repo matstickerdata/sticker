@@ -54,6 +54,33 @@
     ]
   },
   {
+    "title": "Minecraft Among Us",
+    "slug": "matech_amongus_minecraft",
+    "active": false,
+    "tray_src": "https://matechmobile.org/stickersmaker/matech_amongus_minecraft/127.webp",
+    "tray_src_icon": "https://matechmobile.org/stickersmaker/matech_amongus_minecraft/127.webp",
+    "stickers": [
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_minecraft/127.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_minecraft/128.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_minecraft/129.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_minecraft/130.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_minecraft/131.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_minecraft/132.webp"
+      }
+    ]
+  },
+  {
     "title": "KitKat Meow",
     "slug": "kitkat-meow",
     "active": false,
@@ -77,6 +104,33 @@
       },
       {
         "sticker_src": "https://s1.stickers.cloud/packs/4ddfe7c1-191e-4478-8681-fa1bbe1abd94/webp/fb3d1f44-d462-4c8a-8eab-e7cb8f1a3705.webp"
+      }
+    ]
+  },
+  {
+    "title": "Among us Halloween",
+    "slug": "matech-among-us-halloween",
+    "active": false,
+    "tray_src": "https://matechmobile.org/stickersmaker/matech_amongus_hallowen/4.webp",
+    "tray_src_icon": "https://matechmobile.org/stickersmaker/matech_amongus_hallowen/4.webp",
+    "stickers": [
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_hallowen/1.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_hallowen/2.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_hallowen/3.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_hallowen/4.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_hallowen/5.webp"
+      },
+      {
+        "sticker_src": "https://matechmobile.org/stickersmaker/matech_amongus_hallowen/6.webp"
       }
     ]
   },
